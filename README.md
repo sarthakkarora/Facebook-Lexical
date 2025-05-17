@@ -19,7 +19,7 @@ Lexical is an extensible JavaScript web text-editor framework with an emphasis o
 
 For documentation and more information about Lexical, be sure to [visit the Lexical website](https://lexical.dev).
 
-Here are some examples of what you can do with Lexical:
+Here are some examples what you can do with Lexical:
 
 - [Lexical Playground](https://playground.lexical.dev)
 - [Plain text sandbox](https://stackblitz.com/github/facebook/lexical/tree/main/examples/react-plain-text?embed=1&file=src%2FApp.tsx&terminalHeight=0&ctl=1&showSidebar=0&devtoolsheight=0&view=preview)
