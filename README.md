@@ -36,7 +36,6 @@ Here are some examples what you can do with Lexical:
 
 - [Working with Lexical](#working-with-lexical)
 
-- [Contributing to Lexical](#contributing-to-lexical)
 
 ---
 
